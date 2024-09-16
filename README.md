@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing different small web applications<br>🌱 I’m currently learning REACT and NodeJs<br>💬 Ask me about<br>
+🔭 I’m currently working on developing different small web applications<br>🌱 I’m currently learning REACT and NodeJs<br>💬 Ask me about full-stack web development, Flask, React, Python, and AI/ML projects<br>
 
 
 ## 🌐 Socials:
